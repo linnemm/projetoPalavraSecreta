@@ -1,4 +1,4 @@
-# 🇧🇷 Palavra Secreta – História do Brasil
+# Palavra Secreta – História do Brasil
 
 ### 🎯 Sobre o projeto
 **Palavra Secreta** é um jogo educativo desenvolvido para a disciplina **Algoritmos e Lógica de Programação** ministrada pelo Prof. Dr. André Mendeleck na PUC-CAMPINAS.  
