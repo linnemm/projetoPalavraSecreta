@@ -47,7 +47,6 @@ Cada acerto revela uma curiosidade histórica, tornando o aprendizado leve e div
 
 
 Projeto desenvolvido por Alinne Monteiro
-
 📘 PUC-Campinas — Algoritmos e Linguagem de Programação  
 📆 2025
 
